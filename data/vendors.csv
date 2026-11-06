@@ -1,0 +1,21 @@
+Vendor_ID,Vendor_Name,Bank_Account,Status
+V001,Vendor 1,ACC221958,Active
+V002,Vendor 2,ACC771155,Inactive
+V003,Vendor 3,ACC231932,Active
+V004,Vendor 4,ACC465838,Inactive
+V005,Vendor 5,ACC359178,Active
+V006,Vendor 6,ACC744167,Active
+V007,Vendor 7,ACC210268,Active
+V008,Vendor 8,ACC832180,Active
+V009,Vendor 9,ACC154886,Active
+V010,Vendor 10,ACC237337,Active
+V011,Vendor 11,ACC621430,Active
+V012,Vendor 12,ACC187498,Inactive
+V013,Vendor 13,ACC999159,Active
+V014,Vendor 14,ACC275203,Active
+V015,Vendor 15,ACC291335,Active
+V016,Vendor 16,ACC378167,Active
+V017,Vendor 17,ACC141090,Inactive
+V018,Vendor 18,ACC429365,Active
+V019,Vendor 19,ACC164820,Active
+V020,Vendor 20,ACC887201,Active

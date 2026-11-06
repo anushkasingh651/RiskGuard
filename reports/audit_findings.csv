@@ -1,0 +1,230 @@
+Finding_ID,Test_Name,Risk_Level,Record_ID,Description,Amount_At_Risk,Recommendation
+RG0001,Duplicate Invoice,Critical,"INV0001,INV0002",Vendor V016 submitted invoice number INVOICE-0001 2 times.,107756.0,Investigate duplicate submissions and verify whether duplicate payments occurred.
+RG0002,Missing Purchase Order,High,INV0003,Invoice INV0003 has no associated purchase order.,102379.0,Verify purchase authorization and obtain supporting purchase documentation.
+RG0003,Missing Purchase Order,High,INV0101,Invoice INV0101 has no associated purchase order.,10126.0,Verify purchase authorization and obtain supporting purchase documentation.
+RG0004,Missing Purchase Order,High,INV0102,Invoice INV0102 has no associated purchase order.,87838.0,Verify purchase authorization and obtain supporting purchase documentation.
+RG0005,Missing Purchase Order,High,INV0103,Invoice INV0103 has no associated purchase order.,43638.0,Verify purchase authorization and obtain supporting purchase documentation.
+RG0006,Missing Purchase Order,High,INV0104,Invoice INV0104 has no associated purchase order.,39674.0,Verify purchase authorization and obtain supporting purchase documentation.
+RG0007,Missing Purchase Order,High,INV0105,Invoice INV0105 has no associated purchase order.,15267.0,Verify purchase authorization and obtain supporting purchase documentation.
+RG0008,Missing Purchase Order,High,INV0106,Invoice INV0106 has no associated purchase order.,55448.0,Verify purchase authorization and obtain supporting purchase documentation.
+RG0009,Missing Purchase Order,High,INV0107,Invoice INV0107 has no associated purchase order.,9632.0,Verify purchase authorization and obtain supporting purchase documentation.
+RG0010,Missing Purchase Order,High,INV0108,Invoice INV0108 has no associated purchase order.,11168.0,Verify purchase authorization and obtain supporting purchase documentation.
+RG0011,Missing Purchase Order,High,INV0109,Invoice INV0109 has no associated purchase order.,78794.0,Verify purchase authorization and obtain supporting purchase documentation.
+RG0012,Missing Purchase Order,High,INV0110,Invoice INV0110 has no associated purchase order.,31734.0,Verify purchase authorization and obtain supporting purchase documentation.
+RG0013,Missing Purchase Order,High,INV0111,Invoice INV0111 has no associated purchase order.,31069.0,Verify purchase authorization and obtain supporting purchase documentation.
+RG0014,Missing Purchase Order,High,INV0112,Invoice INV0112 has no associated purchase order.,78479.0,Verify purchase authorization and obtain supporting purchase documentation.
+RG0015,Missing Purchase Order,High,INV0113,Invoice INV0113 has no associated purchase order.,86449.0,Verify purchase authorization and obtain supporting purchase documentation.
+RG0016,Missing Purchase Order,High,INV0114,Invoice INV0114 has no associated purchase order.,89659.0,Verify purchase authorization and obtain supporting purchase documentation.
+RG0017,Missing Purchase Order,High,INV0115,Invoice INV0115 has no associated purchase order.,80703.0,Verify purchase authorization and obtain supporting purchase documentation.
+RG0018,Missing Purchase Order,High,INV0116,Invoice INV0116 has no associated purchase order.,32285.0,Verify purchase authorization and obtain supporting purchase documentation.
+RG0019,Missing Purchase Order,High,INV0117,Invoice INV0117 has no associated purchase order.,6605.0,Verify purchase authorization and obtain supporting purchase documentation.
+RG0020,Missing Purchase Order,High,INV0118,Invoice INV0118 has no associated purchase order.,82149.0,Verify purchase authorization and obtain supporting purchase documentation.
+RG0021,Missing Purchase Order,High,INV0119,Invoice INV0119 has no associated purchase order.,18046.0,Verify purchase authorization and obtain supporting purchase documentation.
+RG0022,Missing Purchase Order,High,INV0120,Invoice INV0120 has no associated purchase order.,9324.0,Verify purchase authorization and obtain supporting purchase documentation.
+RG0023,Invoice Exceeds PO,High,INV0001,Invoice amount exceeds PO amount by 79050.00.,79050.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0024,Invoice Exceeds PO,High,INV0002,Invoice amount exceeds PO amount by 35486.00.,35486.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0025,Invoice Exceeds PO,High,INV0004,Invoice amount exceeds PO amount by 161237.00.,161237.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0026,Invoice Exceeds PO,High,INV0007,Invoice amount exceeds PO amount by 12970.00.,12970.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0027,Invoice Exceeds PO,High,INV0010,Invoice amount exceeds PO amount by 71917.00.,71917.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0028,Invoice Exceeds PO,High,INV0011,Invoice amount exceeds PO amount by 38638.00.,38638.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0029,Invoice Exceeds PO,High,INV0012,Invoice amount exceeds PO amount by 12555.00.,12555.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0030,Invoice Exceeds PO,High,INV0013,Invoice amount exceeds PO amount by 13805.00.,13805.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0031,Invoice Exceeds PO,High,INV0014,Invoice amount exceeds PO amount by 12394.00.,12394.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0032,Invoice Exceeds PO,High,INV0017,Invoice amount exceeds PO amount by 36063.00.,36063.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0033,Invoice Exceeds PO,High,INV0018,Invoice amount exceeds PO amount by 17724.00.,17724.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0034,Invoice Exceeds PO,High,INV0019,Invoice amount exceeds PO amount by 50351.00.,50351.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0035,Invoice Exceeds PO,High,INV0020,Invoice amount exceeds PO amount by 10269.00.,10269.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0036,Invoice Exceeds PO,High,INV0021,Invoice amount exceeds PO amount by 38370.00.,38370.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0037,Invoice Exceeds PO,High,INV0023,Invoice amount exceeds PO amount by 1331.00.,1331.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0038,Invoice Exceeds PO,High,INV0024,Invoice amount exceeds PO amount by 37993.00.,37993.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0039,Invoice Exceeds PO,High,INV0027,Invoice amount exceeds PO amount by 68853.00.,68853.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0040,Invoice Exceeds PO,High,INV0028,Invoice amount exceeds PO amount by 63173.00.,63173.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0041,Invoice Exceeds PO,High,INV0029,Invoice amount exceeds PO amount by 208.00.,208.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0042,Invoice Exceeds PO,High,INV0031,Invoice amount exceeds PO amount by 24557.00.,24557.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0043,Invoice Exceeds PO,High,INV0035,Invoice amount exceeds PO amount by 8472.00.,8472.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0044,Invoice Exceeds PO,High,INV0036,Invoice amount exceeds PO amount by 65793.00.,65793.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0045,Invoice Exceeds PO,High,INV0039,Invoice amount exceeds PO amount by 76651.00.,76651.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0046,Invoice Exceeds PO,High,INV0041,Invoice amount exceeds PO amount by 21632.00.,21632.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0047,Invoice Exceeds PO,High,INV0043,Invoice amount exceeds PO amount by 46388.00.,46388.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0048,Invoice Exceeds PO,High,INV0044,Invoice amount exceeds PO amount by 45521.00.,45521.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0049,Invoice Exceeds PO,High,INV0047,Invoice amount exceeds PO amount by 47534.00.,47534.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0050,Invoice Exceeds PO,High,INV0048,Invoice amount exceeds PO amount by 45934.00.,45934.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0051,Invoice Exceeds PO,High,INV0049,Invoice amount exceeds PO amount by 25163.00.,25163.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0052,Invoice Exceeds PO,High,INV0050,Invoice amount exceeds PO amount by 70872.00.,70872.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0053,Invoice Exceeds PO,High,INV0051,Invoice amount exceeds PO amount by 9697.00.,9697.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0054,Invoice Exceeds PO,High,INV0052,Invoice amount exceeds PO amount by 23383.00.,23383.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0055,Invoice Exceeds PO,High,INV0053,Invoice amount exceeds PO amount by 2343.00.,2343.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0056,Invoice Exceeds PO,High,INV0054,Invoice amount exceeds PO amount by 50118.00.,50118.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0057,Invoice Exceeds PO,High,INV0056,Invoice amount exceeds PO amount by 53487.00.,53487.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0058,Invoice Exceeds PO,High,INV0058,Invoice amount exceeds PO amount by 85596.00.,85596.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0059,Invoice Exceeds PO,High,INV0066,Invoice amount exceeds PO amount by 45480.00.,45480.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0060,Invoice Exceeds PO,High,INV0072,Invoice amount exceeds PO amount by 86663.00.,86663.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0061,Invoice Exceeds PO,High,INV0075,Invoice amount exceeds PO amount by 17005.00.,17005.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0062,Invoice Exceeds PO,High,INV0076,Invoice amount exceeds PO amount by 1986.00.,1986.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0063,Invoice Exceeds PO,High,INV0078,Invoice amount exceeds PO amount by 62001.00.,62001.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0064,Invoice Exceeds PO,High,INV0079,Invoice amount exceeds PO amount by 35830.00.,35830.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0065,Invoice Exceeds PO,High,INV0081,Invoice amount exceeds PO amount by 27132.00.,27132.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0066,Invoice Exceeds PO,High,INV0082,Invoice amount exceeds PO amount by 12343.00.,12343.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0067,Invoice Exceeds PO,High,INV0083,Invoice amount exceeds PO amount by 19424.00.,19424.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0068,Invoice Exceeds PO,High,INV0084,Invoice amount exceeds PO amount by 52786.00.,52786.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0069,Invoice Exceeds PO,High,INV0085,Invoice amount exceeds PO amount by 99657.00.,99657.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0070,Invoice Exceeds PO,High,INV0092,Invoice amount exceeds PO amount by 60974.00.,60974.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0071,Invoice Exceeds PO,High,INV0093,Invoice amount exceeds PO amount by 42057.00.,42057.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0072,Invoice Exceeds PO,High,INV0094,Invoice amount exceeds PO amount by 88117.00.,88117.0,Investigate price differences and obtain an authorized PO amendment if applicable.
+RG0073,Vendor Mismatch,High,INV0001,Invoice vendor V016 does not match PO vendor V015.,99758.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0074,Vendor Mismatch,High,INV0002,Invoice vendor V016 does not match PO vendor V005.,107756.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0075,Vendor Mismatch,High,INV0004,Invoice vendor V020 does not match PO vendor V007.,250000.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0076,Vendor Mismatch,High,INV0005,Invoice vendor V019 does not match PO vendor V005.,14823.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0077,Vendor Mismatch,High,INV0006,Invoice vendor V005 does not match PO vendor V004.,32663.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0078,Vendor Mismatch,High,INV0007,Invoice vendor V016 does not match PO vendor V007.,99704.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0079,Vendor Mismatch,High,INV0008,Invoice vendor V020 does not match PO vendor V010.,64275.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0080,Vendor Mismatch,High,INV0009,Invoice vendor V003 does not match PO vendor V015.,9000.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0081,Vendor Mismatch,High,INV0010,Invoice vendor V011 does not match PO vendor V012.,102856.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0082,Vendor Mismatch,High,INV0011,Invoice vendor V010 does not match PO vendor V015.,94643.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0083,Vendor Mismatch,High,INV0012,Invoice vendor V013 does not match PO vendor V012.,43494.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0084,Vendor Mismatch,High,INV0013,Invoice vendor V019 does not match PO vendor V014.,32350.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0085,Vendor Mismatch,High,INV0014,Invoice vendor V008 does not match PO vendor V004.,20305.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0086,Vendor Mismatch,High,INV0015,Invoice vendor V002 does not match PO vendor V009.,8267.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0087,Vendor Mismatch,High,INV0016,Invoice vendor V013 does not match PO vendor V003.,5412.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0088,Vendor Mismatch,High,INV0017,Invoice vendor V004 does not match PO vendor V015.,43756.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0089,Vendor Mismatch,High,INV0018,Invoice vendor V003 does not match PO vendor V012.,88042.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0090,Vendor Mismatch,High,INV0019,Invoice vendor V018 does not match PO vendor V013.,64031.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0091,Vendor Mismatch,High,INV0020,Invoice vendor V005 does not match PO vendor V012.,41208.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0092,Vendor Mismatch,High,INV0021,Invoice vendor V013 does not match PO vendor V006.,73450.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0093,Vendor Mismatch,High,INV0022,Invoice vendor V017 does not match PO vendor V007.,46555.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0094,Vendor Mismatch,High,INV0023,Invoice vendor V013 does not match PO vendor V010.,44954.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0095,Vendor Mismatch,High,INV0024,Invoice vendor V004 does not match PO vendor V012.,68932.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0096,Vendor Mismatch,High,INV0025,Invoice vendor V019 does not match PO vendor V005.,74896.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0097,Vendor Mismatch,High,INV0026,Invoice vendor V014 does not match PO vendor V007.,69895.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0098,Vendor Mismatch,High,INV0027,Invoice vendor V019 does not match PO vendor V014.,91900.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0099,Vendor Mismatch,High,INV0028,Invoice vendor V003 does not match PO vendor V012.,94112.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0100,Vendor Mismatch,High,INV0029,Invoice vendor V016 does not match PO vendor V001.,6062.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0101,Vendor Mismatch,High,INV0030,Invoice vendor V010 does not match PO vendor V005.,16174.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0102,Vendor Mismatch,High,INV0031,Invoice vendor V005 does not match PO vendor V014.,43102.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0103,Vendor Mismatch,High,INV0032,Invoice vendor V011 does not match PO vendor V003.,11801.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0104,Vendor Mismatch,High,INV0033,Invoice vendor V012 does not match PO vendor V020.,28625.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0105,Vendor Mismatch,High,INV0034,Invoice vendor V006 does not match PO vendor V009.,26677.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0106,Vendor Mismatch,High,INV0035,Invoice vendor V008 does not match PO vendor V009.,67856.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0107,Vendor Mismatch,High,INV0036,Invoice vendor V002 does not match PO vendor V014.,93092.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0108,Vendor Mismatch,High,INV0037,Invoice vendor V006 does not match PO vendor V007.,33295.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0109,Vendor Mismatch,High,INV0038,Invoice vendor V007 does not match PO vendor V019.,6324.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0110,Vendor Mismatch,High,INV0039,Invoice vendor V004 does not match PO vendor V003.,94339.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0111,Vendor Mismatch,High,INV0040,Invoice vendor V012 does not match PO vendor V008.,31790.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0112,Vendor Mismatch,High,INV0041,Invoice vendor V010 does not match PO vendor V007.,98714.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0113,Vendor Mismatch,High,INV0042,Invoice vendor V003 does not match PO vendor V001.,9748.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0114,Vendor Mismatch,High,INV0044,Invoice vendor V003 does not match PO vendor V015.,85219.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0115,Vendor Mismatch,High,INV0045,Invoice vendor V017 does not match PO vendor V004.,38591.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0116,Vendor Mismatch,High,INV0046,Invoice vendor V006 does not match PO vendor V005.,41395.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0117,Vendor Mismatch,High,INV0047,Invoice vendor V013 does not match PO vendor V009.,108214.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0118,Vendor Mismatch,High,INV0048,Invoice vendor V016 does not match PO vendor V015.,66642.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0119,Vendor Mismatch,High,INV0049,Invoice vendor V005 does not match PO vendor V008.,96362.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0120,Vendor Mismatch,High,INV0050,Invoice vendor V020 does not match PO vendor V001.,76726.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0121,Vendor Mismatch,High,INV0051,Invoice vendor V017 does not match PO vendor V015.,57638.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0122,Vendor Mismatch,High,INV0052,Invoice vendor V003 does not match PO vendor V014.,46430.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0123,Vendor Mismatch,High,INV0053,Invoice vendor V010 does not match PO vendor V013.,16023.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0124,Vendor Mismatch,High,INV0054,Invoice vendor V008 does not match PO vendor V020.,66529.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0125,Vendor Mismatch,High,INV0055,Invoice vendor V018 does not match PO vendor V002.,32355.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0126,Vendor Mismatch,High,INV0056,Invoice vendor V004 does not match PO vendor V008.,109346.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0127,Vendor Mismatch,High,INV0057,Invoice vendor V009 does not match PO vendor V015.,60284.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0128,Vendor Mismatch,High,INV0058,Invoice vendor V013 does not match PO vendor V020.,102007.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0129,Vendor Mismatch,High,INV0059,Invoice vendor V003 does not match PO vendor V018.,10713.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0130,Vendor Mismatch,High,INV0060,Invoice vendor V005 does not match PO vendor V009.,80672.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0131,Vendor Mismatch,High,INV0061,Invoice vendor V018 does not match PO vendor V014.,6015.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0132,Vendor Mismatch,High,INV0062,Invoice vendor V001 does not match PO vendor V004.,13415.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0133,Vendor Mismatch,High,INV0063,Invoice vendor V017 does not match PO vendor V007.,67292.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0134,Vendor Mismatch,High,INV0064,Invoice vendor V017 does not match PO vendor V015.,25384.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0135,Vendor Mismatch,High,INV0065,Invoice vendor V009 does not match PO vendor V004.,13702.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0136,Vendor Mismatch,High,INV0066,Invoice vendor V017 does not match PO vendor V005.,103142.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0137,Vendor Mismatch,High,INV0067,Invoice vendor V006 does not match PO vendor V018.,55612.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0138,Vendor Mismatch,High,INV0068,Invoice vendor V005 does not match PO vendor V017.,15916.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0139,Vendor Mismatch,High,INV0069,Invoice vendor V010 does not match PO vendor V007.,18456.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0140,Vendor Mismatch,High,INV0070,Invoice vendor V014 does not match PO vendor V003.,43765.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0141,Vendor Mismatch,High,INV0071,Invoice vendor V019 does not match PO vendor V001.,22100.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0142,Vendor Mismatch,High,INV0072,Invoice vendor V001 does not match PO vendor V016.,97193.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0143,Vendor Mismatch,High,INV0073,Invoice vendor V008 does not match PO vendor V018.,19489.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0144,Vendor Mismatch,High,INV0074,Invoice vendor V002 does not match PO vendor V008.,48125.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0145,Vendor Mismatch,High,INV0075,Invoice vendor V018 does not match PO vendor V012.,47944.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0146,Vendor Mismatch,High,INV0076,Invoice vendor V012 does not match PO vendor V014.,29285.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0147,Vendor Mismatch,High,INV0077,Invoice vendor V017 does not match PO vendor V009.,20254.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0148,Vendor Mismatch,High,INV0078,Invoice vendor V005 does not match PO vendor V015.,82709.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0149,Vendor Mismatch,High,INV0080,Invoice vendor V002 does not match PO vendor V013.,60393.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0150,Vendor Mismatch,High,INV0081,Invoice vendor V015 does not match PO vendor V017.,66886.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0151,Vendor Mismatch,High,INV0082,Invoice vendor V006 does not match PO vendor V015.,102239.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0152,Vendor Mismatch,High,INV0083,Invoice vendor V010 does not match PO vendor V011.,48088.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0153,Vendor Mismatch,High,INV0084,Invoice vendor V004 does not match PO vendor V015.,60479.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0154,Vendor Mismatch,High,INV0085,Invoice vendor V020 does not match PO vendor V013.,107468.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0155,Vendor Mismatch,High,INV0086,Invoice vendor V006 does not match PO vendor V017.,10569.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0156,Vendor Mismatch,High,INV0087,Invoice vendor V011 does not match PO vendor V015.,17015.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0157,Vendor Mismatch,High,INV0088,Invoice vendor V016 does not match PO vendor V007.,11090.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0158,Vendor Mismatch,High,INV0090,Invoice vendor V003 does not match PO vendor V012.,74724.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0159,Vendor Mismatch,High,INV0091,Invoice vendor V018 does not match PO vendor V009.,16314.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0160,Vendor Mismatch,High,INV0092,Invoice vendor V005 does not match PO vendor V014.,108081.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0161,Vendor Mismatch,High,INV0093,Invoice vendor V006 does not match PO vendor V009.,109680.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0162,Vendor Mismatch,High,INV0094,Invoice vendor V014 does not match PO vendor V008.,96865.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0163,Vendor Mismatch,High,INV0096,Invoice vendor V011 does not match PO vendor V009.,57796.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0164,Vendor Mismatch,High,INV0097,Invoice vendor V004 does not match PO vendor V009.,64399.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0165,Vendor Mismatch,High,INV0098,Invoice vendor V003 does not match PO vendor V019.,5302.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0166,Vendor Mismatch,High,INV0099,Invoice vendor V014 does not match PO vendor V007.,33699.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0167,Vendor Mismatch,High,INV0100,Invoice vendor V002 does not match PO vendor V018.,9621.0,Verify vendor identity and investigate potential unauthorized vendor substitution.
+RG0168,Unapproved Purchase Order,High,PO0001,Purchase order has status Pending.,67623.0,Obtain documented approval before authorizing the purchase.
+RG0169,Unapproved Purchase Order,High,PO0005,Purchase order has status Pending.,27299.0,Obtain documented approval before authorizing the purchase.
+RG0170,Unapproved Purchase Order,High,PO0006,Purchase order has status Pending.,48585.0,Obtain documented approval before authorizing the purchase.
+RG0171,Unapproved Purchase Order,High,PO0014,Purchase order has status Pending.,47941.0,Obtain documented approval before authorizing the purchase.
+RG0172,Unapproved Purchase Order,High,PO0015,Purchase order has status Pending.,26834.0,Obtain documented approval before authorizing the purchase.
+RG0173,Unapproved Purchase Order,High,PO0020,Purchase order has status Pending.,26976.0,Obtain documented approval before authorizing the purchase.
+RG0174,Unapproved Purchase Order,High,PO0021,Purchase order has status Pending.,49262.0,Obtain documented approval before authorizing the purchase.
+RG0175,Unapproved Purchase Order,High,PO0026,Purchase order has status Pending.,11776.0,Obtain documented approval before authorizing the purchase.
+RG0176,Unapproved Purchase Order,High,PO0049,Purchase order has status Rejected.,70318.0,Obtain documented approval before authorizing the purchase.
+RG0177,Unapproved Purchase Order,High,PO0051,Purchase order has status Pending.,28664.0,Obtain documented approval before authorizing the purchase.
+RG0178,Unapproved Purchase Order,High,PO0063,Purchase order has status Pending.,92092.0,Obtain documented approval before authorizing the purchase.
+RG0179,Unapproved Purchase Order,High,PO0064,Purchase order has status Rejected.,55859.0,Obtain documented approval before authorizing the purchase.
+RG0180,Unapproved Purchase Order,High,PO0065,Purchase order has status Pending.,31309.0,Obtain documented approval before authorizing the purchase.
+RG0181,Unapproved Purchase Order,High,PO0068,Purchase order has status Pending.,75467.0,Obtain documented approval before authorizing the purchase.
+RG0182,Unapproved Purchase Order,High,PO0070,Purchase order has status Rejected.,17688.0,Obtain documented approval before authorizing the purchase.
+RG0183,Unapproved Purchase Order,High,PO0071,Purchase order has status Rejected.,30342.0,Obtain documented approval before authorizing the purchase.
+RG0184,Unapproved Purchase Order,High,PO0072,Purchase order has status Pending.,42157.0,Obtain documented approval before authorizing the purchase.
+RG0185,Unapproved Purchase Order,High,PO0075,Purchase order has status Pending.,70733.0,Obtain documented approval before authorizing the purchase.
+RG0186,Unapproved Purchase Order,High,PO0079,Purchase order has status Pending.,27671.0,Obtain documented approval before authorizing the purchase.
+RG0187,Unapproved Purchase Order,High,PO0084,Purchase order has status Rejected.,56663.0,Obtain documented approval before authorizing the purchase.
+RG0188,Unapproved Purchase Order,High,PO0087,Purchase order has status Pending.,54811.0,Obtain documented approval before authorizing the purchase.
+RG0189,Unapproved Purchase Order,High,PO0095,Purchase order has status Pending.,88763.0,Obtain documented approval before authorizing the purchase.
+RG0190,Unapproved Purchase Order,High,PO0096,Purchase order has status Pending.,13680.0,Obtain documented approval before authorizing the purchase.
+RG0191,Missing Goods Receipt,Medium,INV0002,No goods receipt record found for PO PO0094.,107756.0,Verify goods or services were received before approving the invoice.
+RG0192,Missing Goods Receipt,Medium,INV0004,No goods receipt record found for PO PO0095.,250000.0,Verify goods or services were received before approving the invoice.
+RG0193,Missing Goods Receipt,Medium,INV0014,No goods receipt record found for PO PO0093.,20305.0,Verify goods or services were received before approving the invoice.
+RG0194,Missing Goods Receipt,Medium,INV0019,No goods receipt record found for PO PO0096.,64031.0,Verify goods or services were received before approving the invoice.
+RG0195,Missing Goods Receipt,Medium,INV0026,No goods receipt record found for PO PO0095.,69895.0,Verify goods or services were received before approving the invoice.
+RG0196,Missing Goods Receipt,Medium,INV0043,No goods receipt record found for PO PO0092.,62799.0,Verify goods or services were received before approving the invoice.
+RG0197,Missing Goods Receipt,Medium,INV0053,No goods receipt record found for PO PO0096.,16023.0,Verify goods or services were received before approving the invoice.
+RG0198,Missing Goods Receipt,Medium,INV0054,No goods receipt record found for PO PO0092.,66529.0,Verify goods or services were received before approving the invoice.
+RG0199,Missing Goods Receipt,Medium,INV0058,No goods receipt record found for PO PO0092.,102007.0,Verify goods or services were received before approving the invoice.
+RG0200,Missing Goods Receipt,Medium,INV0065,No goods receipt record found for PO PO0099.,13702.0,Verify goods or services were received before approving the invoice.
+RG0201,Missing Goods Receipt,Medium,INV0081,No goods receipt record found for PO PO0091.,66886.0,Verify goods or services were received before approving the invoice.
+RG0202,Missing Goods Receipt,Medium,INV0082,No goods receipt record found for PO PO0097.,102239.0,Verify goods or services were received before approving the invoice.
+RG0203,Missing Goods Receipt,Medium,INV0088,No goods receipt record found for PO PO0095.,11090.0,Verify goods or services were received before approving the invoice.
+RG0204,Payment Exceeds Invoice,Critical,PAY0001,Payment exceeds invoice amount by 25000.00.,25000.0,Investigate the excess payment and initiate recovery where appropriate.
+RG0205,Inactive Vendor Transaction,High,INV0015,Invoice belongs to inactive vendor V002.,8267.0,Verify vendor status and investigate whether the transaction was authorized.
+RG0206,Inactive Vendor Transaction,High,INV0036,Invoice belongs to inactive vendor V002.,93092.0,Verify vendor status and investigate whether the transaction was authorized.
+RG0207,Inactive Vendor Transaction,High,INV0074,Invoice belongs to inactive vendor V002.,48125.0,Verify vendor status and investigate whether the transaction was authorized.
+RG0208,Inactive Vendor Transaction,High,INV0080,Invoice belongs to inactive vendor V002.,60393.0,Verify vendor status and investigate whether the transaction was authorized.
+RG0209,Inactive Vendor Transaction,High,INV0100,Invoice belongs to inactive vendor V002.,9621.0,Verify vendor status and investigate whether the transaction was authorized.
+RG0210,Inactive Vendor Transaction,High,INV0115,Invoice belongs to inactive vendor V002.,80703.0,Verify vendor status and investigate whether the transaction was authorized.
+RG0211,Inactive Vendor Transaction,High,INV0017,Invoice belongs to inactive vendor V004.,43756.0,Verify vendor status and investigate whether the transaction was authorized.
+RG0212,Inactive Vendor Transaction,High,INV0024,Invoice belongs to inactive vendor V004.,68932.0,Verify vendor status and investigate whether the transaction was authorized.
+RG0213,Inactive Vendor Transaction,High,INV0039,Invoice belongs to inactive vendor V004.,94339.0,Verify vendor status and investigate whether the transaction was authorized.
+RG0214,Inactive Vendor Transaction,High,INV0056,Invoice belongs to inactive vendor V004.,109346.0,Verify vendor status and investigate whether the transaction was authorized.
+RG0215,Inactive Vendor Transaction,High,INV0084,Invoice belongs to inactive vendor V004.,60479.0,Verify vendor status and investigate whether the transaction was authorized.
+RG0216,Inactive Vendor Transaction,High,INV0089,Invoice belongs to inactive vendor V004.,46240.0,Verify vendor status and investigate whether the transaction was authorized.
+RG0217,Inactive Vendor Transaction,High,INV0097,Invoice belongs to inactive vendor V004.,64399.0,Verify vendor status and investigate whether the transaction was authorized.
+RG0218,Inactive Vendor Transaction,High,INV0118,Invoice belongs to inactive vendor V004.,82149.0,Verify vendor status and investigate whether the transaction was authorized.
+RG0219,Inactive Vendor Transaction,High,INV0033,Invoice belongs to inactive vendor V012.,28625.0,Verify vendor status and investigate whether the transaction was authorized.
+RG0220,Inactive Vendor Transaction,High,INV0040,Invoice belongs to inactive vendor V012.,31790.0,Verify vendor status and investigate whether the transaction was authorized.
+RG0221,Inactive Vendor Transaction,High,INV0076,Invoice belongs to inactive vendor V012.,29285.0,Verify vendor status and investigate whether the transaction was authorized.
+RG0222,Inactive Vendor Transaction,High,INV0107,Invoice belongs to inactive vendor V012.,9632.0,Verify vendor status and investigate whether the transaction was authorized.
+RG0223,Inactive Vendor Transaction,High,INV0022,Invoice belongs to inactive vendor V017.,46555.0,Verify vendor status and investigate whether the transaction was authorized.
+RG0224,Inactive Vendor Transaction,High,INV0045,Invoice belongs to inactive vendor V017.,38591.0,Verify vendor status and investigate whether the transaction was authorized.
+RG0225,Inactive Vendor Transaction,High,INV0051,Invoice belongs to inactive vendor V017.,57638.0,Verify vendor status and investigate whether the transaction was authorized.
+RG0226,Inactive Vendor Transaction,High,INV0063,Invoice belongs to inactive vendor V017.,67292.0,Verify vendor status and investigate whether the transaction was authorized.
+RG0227,Inactive Vendor Transaction,High,INV0064,Invoice belongs to inactive vendor V017.,25384.0,Verify vendor status and investigate whether the transaction was authorized.
+RG0228,Inactive Vendor Transaction,High,INV0066,Invoice belongs to inactive vendor V017.,103142.0,Verify vendor status and investigate whether the transaction was authorized.
+RG0229,Inactive Vendor Transaction,High,INV0077,Invoice belongs to inactive vendor V017.,20254.0,Verify vendor status and investigate whether the transaction was authorized.
